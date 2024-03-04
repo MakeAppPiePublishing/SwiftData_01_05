@@ -1,5 +1,5 @@
 # SwiftData Essential Training Exercise Files
-## 01_05 Delete Data
+## 01_05 Run and Test the App
 This is an exercise file of the [SwiftData Essential Training]() course on LinkedIn Learning. 
 
 I've stored the file as a `.zip` files. This has both beginning and the end states of the exercise app. It may also contain other resources you need for the project. 
